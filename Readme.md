@@ -15,7 +15,7 @@ Selenium Webdriver,
 Bonigarcia Webdrivermanager
 
  **Credentials :** 
-For Create an Account: 
+For Create an Account(CreateAccount.feature): 
 Email:yisoti3017@httptuan.com    Password:Ww12345678
 (This email address and password will be created only once. When you run the test, these data will not be valid)
 
