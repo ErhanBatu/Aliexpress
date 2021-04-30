@@ -1,15 +1,19 @@
 **Full Name :** 
 Erhan BATU
+
 **Project Title :**
 CASE STUDY/AliExpress – TEST AUTOMATION ENGINEER
+
 **Installation guide:** 
 This is a maven project. So it's assumed that the host running this code have Java and maven installed and JAVA_HOME already set. 
 Here is the guide for maven installation just in case : https://maven.apache.org/install.htmlProject get all dependencies from maven repository. So no additional installation needed.
+
 **Below are the dependencies are being used for this project :** 
 Cucumber,
 Cucumber-Junit,
 Selenium Webdriver, 
 Bonigarcia Webdrivermanager
+
  **Credentials :** 
 For Create an Account: 
 Email:yisoti3017@httptuan.com    Password:Ww12345678
