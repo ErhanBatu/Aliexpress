@@ -28,7 +28,7 @@ public class HomePageStepDefs {
 
         homePage.searchBox.sendKeys(itemName);
         homePage.searchBox.sendKeys(Keys.ENTER);
-        homePage.sendAnyway.click();
+//        homePage.sendAnyway.click();
     }
 
     @And("the user selects an item")
